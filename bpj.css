@@ -1,0 +1,126 @@
+.inner-box{
+    color: rgb(17, 17, 239);
+}
+.inner-box1{
+    background-color: blue;
+}
+#bg{
+    background-color:blue;
+}
+.text{
+    color: white;
+}
+.inner-box3{
+    padding-top: 50px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.inner-box4{
+    background-color: blue;
+    text-align: center;
+}
+#box3{
+    background-color: blue;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    color: white;
+    text-align: justify;
+   } 
+   .underline{
+    background-color: aliceblue;
+    height: 2px;
+    width: 50%;
+   
+   }
+
+   .line{
+    background-color: aliceblue;
+    height: 2px;
+    width: 50%;
+    margin: auto;
+   }
+   .line1{
+    background-color:aliceblue;
+    height: 2px;
+    width: 70%;
+    margin: auto;
+   }
+   .inner-box5{
+    background-color: black;
+    height: 350px;
+    color: white;
+    text-align: center;
+   }
+   .inner-box6 img {
+    object-fit: cover;
+    object-position: top;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: white;
+    height: 250px;
+    padding: 5px;
+    margin: 5px;
+
+   }
+  .inner-box7{
+    background-color: black;
+    height: 350px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+.inner-box8{
+    text-align: center;
+    padding-top: 50px;
+}
+.inner-box8 img{
+    padding-bottom: 40px;
+    margin: 15px;
+}
+  .triangle-down {
+	width: 0;
+	height: 0;
+	border-left: 25px solid transparent;
+	border-right: 25px solid transparent;
+	border-top: 50px solid blue;
+    margin: auto;
+}
+.circle{
+    height: 100px;
+    width: 100px;
+    border: 2px solid white;
+    text-align: center;
+    padding-top: 20px;
+    border-radius: 50%;
+    margin: auto;
+}
+.circle2{
+    height: 100px;
+    width: 100px;
+    border: 2px solid white;
+    text-align: center;
+    padding-top: 20px;
+    border-radius: 50%;
+    margin: auto;
+}
+.circle3{
+    height: 100px;
+    width: 100px;
+    border: 2px solid white;
+    text-align: center;
+    padding-top: 20px;
+    border-radius: 50%;
+    margin: auto;
+}
+
+@media screen and (max-width: 768px) {
+  .inner-box2{
+    width: 100%;
+    padding: 10px;
+    display: flex;
+  }
+
+  }
+  @media screen and (max-width: 768px) {
+    
+  }
